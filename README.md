@@ -1,2 +1,0 @@
-# projetoRick
-Projeto Pessoal 
